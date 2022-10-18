@@ -1,7 +1,7 @@
-import './App.scss'
+import Layout from './app/containers/Layout/Layout'
 
 function App() {
-  return <div>Hello World!</div>
+	return <Layout />
 }
 
 export default App
